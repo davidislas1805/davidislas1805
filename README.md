@@ -11,9 +11,9 @@ Mechatronics Engineer with a special interests in both electronics and computing
 
 I've some experience with programming, mainly in python, c and c++ and to some extent with ROS. In my last year of college I came in touch with embedded programming. (MouseOver the images :wink:)
 
-<center>
+<p align="center">
 <img align="center" src="icons/python.svg" alt="drawing" width="30" title="python"/>&emsp;&emsp;<img align="center" src="icons/cplusplus.svg" alt="drawing" width="30" title="c++"/>&emsp;&emsp;<img align="center" src="icons/ros.svg" alt="drawing" width="30" title="ROS"/>
-</center>
+</p>
 
 ## Software:
 The software that I'm familiar and have worked with are:
