@@ -17,10 +17,10 @@ I've some experience with programming, mainly in python, c and c++ and to some e
 
 ## Software:
 The software that I'm familiar and have worked with are:
-<center><img align="center" src="icons/autodesk.svg" alt="drawing" width="30" title="Fusion360"/>
+<p align="center"><img align="center" src="icons/autodesk.svg" alt="drawing" width="30" title="Fusion360"/>
 &emsp;&emsp;<img align="center" src="icons/dassaultsystemes.svg" alt="drawing" width="40" title="Solidworks"/>&emsp;&emsp; <img align="center" src="icons/siemens.svg" alt="drawing" width="60" title="NX"/>
 &emsp;&emsp;<img align="center" src="icons/labview.svg" alt="drawing" width="60" title="LabVIEW"/>
-</center>
+</p>
 
 ## Projects:
 The projects that I have worked in are:
