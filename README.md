@@ -30,9 +30,9 @@ The projects that I have worked in are:
 ## My contacts:
 You can contact me via:
 
-<center>
+<p align="center">
 <img align="center" src="icons/microsoftoutlook.svg" alt="drawing" width="30"/>&emsp; davidislas11@hotmail.com
-</center>
+</p>
 
 ## Currently learning:
 I'm learning javascript in order to be able to develop a GUI for a future project...
