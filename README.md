@@ -11,16 +11,21 @@ Mechatronics Engineer with a special interests in both electronics and computing
 
 I've some experience with programming, mainly in python, c and c++ and to some extent with ROS. In my last year of college I came in touch with embedded programming. (MouseOver the images :wink:)
 
-<p align="center">
-<img align="center" src="icons/python.svg" alt="drawing" width="30" title="python"/>&emsp;&emsp;<img align="center" src="icons/cplusplus.svg" alt="drawing" width="30" title="c++"/>&emsp;&emsp;<img align="center" src="icons/ros.svg" alt="drawing" width="30" title="ROS"/>
-</p>
+<div align="center">
+  <div style="background-color:lightgrey; width:160px; height:50px; align-content:center">
+    <img align="center" src="icons/python.svg" alt="drawing" width="30" title="python"/>&emsp;&emsp;<img align="center" src="icons/cplusplus.svg" alt="drawing" width="30" title="c++"/>&emsp;&emsp;<img align="center" src="icons/ros.svg" alt="drawing" width="30" title="ROS"/>
+  </div>
+</div>
 
 ## Software:
 The software that I'm familiar and have worked with are:
-<p align="center"><img align="center" src="icons/autodesk.svg" alt="drawing" width="30" title="Fusion360"/>
-&emsp;&emsp;<img align="center" src="icons/dassaultsystemes.svg" alt="drawing" width="40" title="Solidworks"/>&emsp;&emsp; <img align="center" src="icons/siemens.svg" alt="drawing" width="60" title="NX"/>
-&emsp;&emsp;<img align="center" src="icons/labview.svg" alt="drawing" width="60" title="LabVIEW"/>
-</p>
+<div align="center">
+  <div style="background-color:lightgrey; width:300px; height:50px; align-content:center">
+    <img align="center" src="icons/autodesk.svg" alt="drawing" width="30" title="Fusion360"/>
+    &emsp;&emsp;<img align="center" src="icons/dassaultsystemes.svg" alt="drawing" width="40" title="Solidworks"/>&emsp;&emsp; <img align="center" src="icons/siemens.svg" alt="drawing" width="60" title="NX"/>
+    &emsp;&emsp;<img align="center" src="icons/labview.svg" alt="drawing" width="60" title="LabVIEW"/>
+  </div>
+</div>
 
 ## Projects:
 The projects that I have worked in are:
